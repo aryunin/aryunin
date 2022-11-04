@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryunin
 - 👀 I’m interested in java, c++ 
-- 🌱 I’m currently learning java spring, concurrency, kotlin (at the beginning)
+- 🌱 I’m currently learning Spring Framework
 - 💞️ I’m looking for a new programming experience
 - 📫 How to reach me: telegramm @aryunin
 
