@@ -2,7 +2,7 @@
 - 👀 I’m interested in java, c++ 
 - 🌱 I’m currently learning Spring Framework
 - 💞️ I’m looking for a new programming experience
-- 📫 How to reach me: telegramm @aryunin
+- 📫 How to reach me: telegram @aryunin
 
 <!---
 aryunin/aryunin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
